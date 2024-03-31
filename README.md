@@ -5,8 +5,6 @@
 ## Education
 
 - B.S., Statistics | Middle East Technical University (_July 2024_)
-- B.S., Computer Engineering | Eskişehir Osmangazi University (_December 2018_) Dropped Out
-- B.S., Computer Engineering | Gazi University (_July 2016_) Dropped Out
 - H.S., İzmir Atatürk Highschool (_June 2015_)
 
 ## Projects
