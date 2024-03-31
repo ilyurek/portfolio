@@ -5,7 +5,6 @@
 ## Education
 
 - B.S., Statistics | Middle East Technical University (_July 2024_)
-- H.S., İzmir Atatürk Highschool (_June 2015_)
 
 ## Projects
 
