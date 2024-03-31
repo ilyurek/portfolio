@@ -19,7 +19,7 @@ Member of the research team for the report project named ‘Cyber Resilience Roa
 
 ### METU Student's College Life Satisfaction
 
-[Publication] (https://doi.org/10.47814/ijssrr.v6i7.1261)
+[Publication](https://doi.org/10.47814/ijssrr.v6i7.1261)
 
 The research was conducted to identify the factors influencing student satisfaction with their college experience. The study focused on the literature review to determine relevant factors that have been studied in the literature. Survey analysis examined three factors related to college student satisfaction: Major Satisfaction, Social Self-Efficacy, and Academic Performance.
 
